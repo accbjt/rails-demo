@@ -3,7 +3,7 @@
 ### Video Tutorial on Rails
 Here's a video showing you how Rails works and a couple tools I use to learn and also get better at writing Ruby code.
 
-<a src="https://youtu.be/sOpbt4tgFlU" target="blank" >https://youtu.be/sOpbt4tgFlU</a>
+<a src="https://youtu.be/sOpbt4tgFlU" target="_blank" >https://youtu.be/sOpbt4tgFlU</a>
 
 Pry Repl gem
 ```
